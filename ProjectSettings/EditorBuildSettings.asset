@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Escena_inundacion.unity
+    guid: 7759de288f5d4ee449a0ca5e2244944a
+  - enabled: 1
+    path: Assets/Scenes/PantallaPrincipal.unity
+    guid: 946e62e58a081f98cae61aca7de92443
+  - enabled: 1
+    path: Assets/Earthquake/PreFabs/Scenes/Piso1.unity
+    guid: fce31e1b7f27aada68c254b48ccbea80
+  - enabled: 1
+    path: Assets/Earthquake/PreFabs/Scenes/Piso2.unity
+    guid: 04c5917d168bd6278a5b2c1e84e8f237
+  - enabled: 1
+    path: Assets/Earthquake/PreFabs/Scenes/Piso3.unity
+    guid: 4db0f3fbe6896c38696891125732f0f8
+  - enabled: 1
+    path: Assets/Earthquake/PreFabs/Scenes/Piso4.unity
+    guid: 419d6b3d06a42ab0b9287d573be9ced9
+  m_configObjects: {}

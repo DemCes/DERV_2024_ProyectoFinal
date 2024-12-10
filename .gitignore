@@ -1,0 +1,34 @@
+# Unity Generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Archivos grandes de Unity
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+Library/ArtifactDB
+Library - copia/ArtifactDB
+
+# Visual Studio / MonoDevelop
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# Paquetes grandes
+Packages/*.tgz
